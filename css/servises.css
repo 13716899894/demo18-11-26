@@ -23,8 +23,26 @@
 .littleBtn{
     margin-left: 20%;
 }
+.scrollCenter{
+    padding: 0 120px;
+}
 .smallScroll{
     height: 500px;
+    color: #fff;
     background: url(../img/25.jpg) no-repeat center top;
     background-size: 100% ;
+}
+.smallScroll h1{
+    font-size: 68px;
+    margin: 40px 0;
+}
+.smallScroll p{
+    font-size: 18px;
+    margin-bottom: 80px;
+}
+.best{
+    padding: 80px 0;
+}
+.best h1{
+    color: #6EA145;
 }
