@@ -15,4 +15,16 @@
 }
 .little h4{
     color: #6EA145;
+    margin: 20px 0;
+}
+.little p{
+    color: #999;
+}
+.littleBtn{
+    margin-left: 20%;
+}
+.smallScroll{
+    height: 500px;
+    background: url(../img/25.jpg) no-repeat center top;
+    background-size: 100% ;
 }
