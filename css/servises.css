@@ -1,0 +1,18 @@
+.main{
+    padding: 80px 0;
+}
+.main h1{
+    color: #6EA145;
+    padding-bottom: 40px;
+}
+.little{
+    padding: 0 40px;
+
+}
+.little img{
+    width: 250px;
+    height: 250px;
+}
+.little h4{
+    color: #6EA145;
+}
